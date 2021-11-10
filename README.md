@@ -1,6 +1,6 @@
 # Statistics-and-probability
 
-### [Codes for distributions, probabilities and key machine learning concepts]()
+### Codes for distributions, probabilities and key machine learning concepts
 
 ##### [Functions for statistical inference](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Hypothesis_testing.ipynb)
 ##### [Implementation of hypothesis testing, distributions, plotting and other](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Distributions.ipynb)
