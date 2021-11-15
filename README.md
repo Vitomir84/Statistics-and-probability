@@ -23,8 +23,8 @@ A Box Cox transformation is a transformation of non-normal dependent variables i
 
 ##### [Explanation of gradient and programming of gradient descent from the scratch and plotting for several epochs](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Gradient%20and%20programming%20gradient%20descent.ipynb)
 
-This code is essence of machine learning. Understending how gradient descent works is the most fundamental thing. It will easises to understand it
-how it works on linear regression, then it will be no pain to understand how it works in Deep Learning, Reinforcment learing function approximation
+This code is essence of machine learning. Understending how gradient descent works is the most fundamental thing. It is easier to understand it
+how it works on linear regression, and then it will be no pain to understand how it works in Deep Learning, Reinforcment learing function approximation
 and how more advanced optimisers works (e.g. famous Adam).
 
 ##### [Creating ROC curve from the scratch](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Creating%20ROC%20curve.ipynb) 
@@ -55,7 +55,7 @@ The Tukey Lambda PPCC plot, with shape parameter λ, is particularly useful for 
 
 ##### [Monte Carlo simulation](https://github.com/Vitomir84/Statistics-and-probability/blob/master/MonteCarlo_sampling.ipynb)
 
-Here we use the simplest example of Monte Carle simulation in the task when we want to know the most probable sum of rolling 12 six sided dices. 
+Here we use the simplest example of Monte Carlo simulation in the task when we want to know the most probable sum of rolling 12 six sided dices. 
 
 ##### [Gibbs sampling](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Gibbs_Sampling.ipynb)
 
