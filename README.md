@@ -36,14 +36,8 @@ of adequate metric can be a crucial thing.
 
 ##### [Programming the VIF - variance inflation factor for tackling multicolinearity](https://github.com/Vitomir84/Statistics-and-probability/blob/master/VIF.ipynb)
 
-This is simple method for checking multicolinearity in predictors. All predictors are interchangebly taken as a predictor, while looped predictor is a target, then we take metrics 
-$\frac{1}{1-R^2}$ 
-where 
-$R^2$ 
-is coefficient of determination.
-$$
-\frac{n!}{k!(n-k)!} = {n \choose k}
-$$
+This is simple method for checking multicolinearity in predictors. All predictors are interchangebly taken as a predictor, while looped predictor is a target, then we take metrics <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{1-R^2}"> where <img src="https://render.githubusercontent.com/render/math?math=R^2"> is coefficient of determination.
+
 
 ##### [Plotting different types of distributions and examples of distributions in relation to Tukey's lambda](https://github.com/Vitomir84/Statistics-and-probability/blob/master/VIF.ipynb)
 
