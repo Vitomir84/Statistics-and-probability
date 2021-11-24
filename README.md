@@ -37,9 +37,9 @@ of adequate metric can be a crucial thing.
 ##### [Programming the VIF - variance inflation factor for tackling multicolinearity](https://github.com/Vitomir84/Statistics-and-probability/blob/master/VIF.ipynb)
 
 This is simple method for checking multicolinearity in predictors. All predictors are interchangebly taken as a predictor, while looped predictor is a target, then we take metrics 
-$\frac{1}{1-R^2}$ 
+$$\frac{1}{1-R^2}$$ 
 where 
-$R^2$ 
+$$R^2$$ 
 is coefficient of determination.
 
 
