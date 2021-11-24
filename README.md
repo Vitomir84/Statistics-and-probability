@@ -42,16 +42,15 @@ This is simple method for checking multicolinearity in predictors. All predictor
 ##### [Plotting different types of distributions and examples of distributions in relation to Tukey's lambda](https://github.com/Vitomir84/Statistics-and-probability/blob/master/VIF.ipynb)
 
 The Tukey Lambda PPCC plot, with shape parameter λ, is particularly useful for symmetric distributions. It indicates whether a distribution is short or long tailed and it can further indicate several common distributions. Specifically,
+<img src="https://render.githubusercontent.com/render/math?math=\lambda = -1">: distribution is approximately Cauchy
 
-λ = -1: distribution is approximately Cauchy
+<img src="https://render.githubusercontent.com/render/math?math=\lambda = 0">: distribution is exactly logistic
 
-λ = 0: distribution is exactly logistic
+<img src="https://render.githubusercontent.com/render/math?math=\lambda = 0.14">: distribution is approximately normal
 
-λ = 0.14: distribution is approximately normal
+<img src="https://render.githubusercontent.com/render/math?math=\lambda = 0.5">: distribution is U-shaped
 
-λ = 0.5: distribution is U-shaped
-
-λ = 1: distribution is exactly uniform
+<img src="https://render.githubusercontent.com/render/math?math=\lambda = 1">: distribution is exactly uniform
 
 ##### [Monte Carlo simulation](https://github.com/Vitomir84/Statistics-and-probability/blob/master/MonteCarlo_sampling.ipynb)
 
