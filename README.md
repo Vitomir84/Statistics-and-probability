@@ -41,7 +41,9 @@ $\frac{1}{1-R^2}$
 where 
 $R^2$ 
 is coefficient of determination.
-
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
 
 ##### [Plotting different types of distributions and examples of distributions in relation to Tukey's lambda](https://github.com/Vitomir84/Statistics-and-probability/blob/master/VIF.ipynb)
 
