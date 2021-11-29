@@ -14,6 +14,14 @@ Here you can find the different plots of different distribution types. We plot f
 For Normal and Gamma distribution we variate the key parameters (mean and standard deviation for normal, alpha and beta for Gamma) in order
 to get more familiar with distribution characheristics. 
 
+##### [The Beta distribution](https://github.com/Vitomir84/Statistics-and-probability/blob/master/The%20Binomial%20and%20Beta%20distribution.ipynb)
+
+Here you can find simple step by step explanation of the Beta distribution and get intuition when you can use it. We start from Binomal distribution
+and its modeling of a lot of Bernuli events, then we illustrate the Law of Large numbers, which should help in understanding the purpose and usefullnes
+of the large samples in contrast to the small ones, then we illustrate the central limit theorem on the example of the many Binomial distribution answers,
+and at the end we illustrate the Beta distribution, which is the most abstract, becease it simulates probability function on probabilities. 
+This blog helped me a lot in understanding Beta distibution (https://towardsdatascience.com/beta-distribution-intuition-examples-and-derivation-cf00f4db57af) but I did a lot of changes and some more common sense explanation for better intuition. 
+
 ##### [Box-Cox transformation of variable to a normal distributiuon](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Box%20Cox%20transformation.ipynb)
 
 Here we make the illustration how we can use the Box-Cox transformation to transform some data distribution to normal, by searcing and finding the 
