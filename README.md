@@ -14,6 +14,11 @@ Here you can find the different plots of different distribution types. We plot f
 For Normal and Gamma distribution we variate the key parameters (mean and standard deviation for normal, alpha and beta for Gamma) in order
 to get more familiar with distribution characheristics. 
 
+##### [The Bayes Network](https://github.com/Vitomir84/Statistics-and-probability/blob/master/Bayes%20probability%20network.ipynb)
+
+Here you can find the basic explanation of the conditional probability and Bayes theorem with simulated example of one contraintuitive example (this is why Bayes is so hard for me). Then we develop one example of Bayes network modelled by *pomegranate package*. I succeded to get intuitions through this example which I made up.
+You could ask some questions and then the Network could give you the most probable answers based on chain conditional probability.
+
 ##### [The Beta distribution](https://github.com/Vitomir84/Statistics-and-probability/blob/master/The%20Binomial%20and%20Beta%20distribution.ipynb)
 
 Here you can find simple step by step explanation of the Beta distribution and get intuition when you can use it. We start from Binomal distribution
